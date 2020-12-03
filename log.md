@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 1: December 1, 2020 (Example 1)
+### Day 2: December 2, 2020
+#### A first splash into JavaScript 
+
+**Progress and Thoughts** Started the mozilla MDN learning area, which walked me through building a number guessing game with JavaScript. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash. Found it to be a good resource and introduction to JavaScript.
+
+Discovered the Advent of Code December challenge. Neat! Didn't attempt solving the Day 1 puzzle, but looked at other JavaScript solutions, interesting to see how people think thru code.
+### Day 1: December 1, 2020
 ##### Starting this challenge to learn the Gatsby.js framework and build a personal website.
 
 **Today's Progress:** Forked and cloned this repo. Continued slightly customizing the gatsby-starter-lumen boilerplate.
