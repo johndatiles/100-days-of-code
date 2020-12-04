@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 3: December 3, 2020
+#### Debugging
+
+**Progress and Thoughts** Went through a short lesson on debuggings code errors, both syntax and logic. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong 
+
 ### Day 2: December 2, 2020
 #### A first splash into JavaScript 
 
