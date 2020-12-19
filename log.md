@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+### Progress Being Tracked on Twitter - Learning in Public!
+
 ### Day 3: December 3, 2020
 #### Debugging
 
